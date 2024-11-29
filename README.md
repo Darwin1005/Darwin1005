@@ -1,29 +1,28 @@
 # ¡Hola, soy Darwin Zarate 👋
 
-Soy un [tu profesión o rol, por ejemplo, desarrollador web, ingeniero de software, etc.], apasionado por [algo que te apasione en tu área, como desarrollo de software, diseño, inteligencia artificial, etc.]. Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes que me desafíen y me ayuden a crecer profesionalmente.
+Soy un desarrollador **freelance** apasionado por el desarrollo **front-end**, pero también con un gran interés en el **back-end**. Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes que me desafíen y me ayuden a crecer profesionalmente.
 
 ## 🚀 Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo [lo que estás aprendiendo, por ejemplo, "React y Node.js"]
-- 👯 Busco colaborar en proyectos de [menciona las áreas que más te interesan, como "desarrollo web", "AI", etc.]
-- 📫 ¿Cómo contactarme? [tu correo o links de contacto]
-- ⚡ Dato curioso: [algo interesante o divertido sobre ti]
+- 🌱 Actualmente estoy aprendiendo **React** y **Flutter**.
+- 👯 Busco colaborar en proyectos de **desarrollo web**.
+- 📫 ¿Cómo contactarme? Puedes enviarme un correo a **dzarategut@gmail.com**.
+- ⚡ Dato curioso: ¡Me encanta resolver desafíos de programación y siempre estoy buscando nuevos retos!
 
 ## 🔧 Tecnologías y herramientas
 
-Aquí hay algunas de las tecnologías con las que me gusta trabajar:
+Estas son algunas de las tecnologías con las que me gusta trabajar:
 
-- **Lenguajes de programación**: JavaScript, Python, Java, [otros]
-- **Frameworks y bibliotecas**: React, Node.js, Django, [otros]
-- **Bases de datos**: MySQL, MongoDB, [otros]
-- **Herramientas**: Git, Docker, VSCode, [otras]
+- **Lenguajes de programación**: JavaScript, TypeScript, Dart, Xaml.
+- **Frameworks y bibliotecas**: Angular, Laravel, Xamarin.
+- **Bases de datos**: MySQL, SQL Server, Firebase.
+- **Herramientas**: Git, VSCode, Docker.
 
-## 📈 Mis estadísticas de GitHub
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📣 Encuentra más sobre mí
 
-- LinkedIn: [tu perfil de LinkedIn]
-- Twitter: [tu perfil de Twitter]
-- Portfolio: [tu portafolio personal]
+- **LinkedIn**: [www.linkedin.com/in/darwin-zárate-gutierrez-29b2ab2a2](https://www.linkedin.com/in/darwin-z%C3%A1rate-gutierrez-29b2ab2a2)
+
+
+
+
